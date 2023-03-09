@@ -11,6 +11,11 @@ public class Lab {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        return 0;
+        int sum = (a + b);
+        return sum;}
+        public static void main(String[] args) {
+    
+        int a= 25;
+        int b= 15;
     }
 }
